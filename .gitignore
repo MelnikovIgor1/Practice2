@@ -4,3 +4,4 @@ gtests/*
 cmake-build-debug-coverage/*
 gtests/*
 cmake-build-debug/*
+cmake-build-debug/CMakeCache.txt
