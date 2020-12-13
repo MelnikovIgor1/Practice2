@@ -1,4 +1,0 @@
-/Users/igormelnikov/Documents/programming/2020-2021/Practice2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/igormelnikov/Documents/programming/2020-2021/Practice2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/igormelnikov/Documents/programming/2020-2021/Practice2/cmake-build-debug/CMakeFiles/Test.dir
-/Users/igormelnikov/Documents/programming/2020-2021/Practice2/cmake-build-debug/CMakeFiles/out.dir
