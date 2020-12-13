@@ -25,6 +25,7 @@ protected:
         EXPECT_EQ(grammar.First("a"), std::set<char> {'a'});
         EXPECT_EQ(grammar.First("SSb"), (std::set<char> {'a', 'b'}));
         EXPECT_EQ(grammar.First("AAA"), (std::set<char> {'a'}));
+        EXPECT_EQ(grammar.First("aSSb"), (std::set<char> {'a'}));
     }
     static void testSuperRule() {
         Grammar grammar = scope_grammar();
