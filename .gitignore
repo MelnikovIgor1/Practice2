@@ -1,2 +1,6 @@
 cmake-build-debag/*
 .idea/*
+gtests/*
+cmake-build-debug-coverage/*
+gtests/*
+cmake-build-debug/*
