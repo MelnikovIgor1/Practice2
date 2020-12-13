@@ -1,5 +1,5 @@
-cmake-build-debag/*
-.idea/*
+cmake-build-debug/*
+.idea/
 gtests/*
 cmake-build-debug-coverage/*
 gtests/*
